@@ -1,6 +1,6 @@
 #Difficulty 1 - Don't use yourself
 
-An operation canot be used to implement itself
+An operation cannot be used to implement itself
 
 forbidden in add:
 + += ++
